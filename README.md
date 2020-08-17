@@ -1,4 +1,4 @@
-![dnmx' github stats](https://github-readme-stats.vercel.app/api?username=open-dynaMIX&show_icons=true&theme=dark)
+![dnmx' github stats](https://github-readme-stats.vercel.app/api?username=open-dynaMIX&?count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
 <!--
 **open-dynaMIX/open-dynaMIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
