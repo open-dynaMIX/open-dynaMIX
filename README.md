@@ -1,6 +1,8 @@
-# I Are Programmer I Make Computer Beep Boop Beep Beep Boop
+<div align="center">
+<h1>I Are Programmer I Make Computer Beep Boop Beep Beep Boop</h1>
 
-![party parrot](https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif)
+<img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width=250>
+</div>
 
 <!--
 [![dnmx' github stats](https://github-readme-stats.vercel.app/api?username=open-dynaMIX&?count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
